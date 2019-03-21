@@ -1,0 +1,127 @@
+clear
+ident
+box
+230 280 0 55 250 75
+rotate
+x 5
+rotate
+y -20
+
+apply
+
+sphere
+210 250 0 45
+sphere
+160 250 0 45
+sphere
+130 290 0 45
+sphere
+120 350 0 45
+sphere
+150 400 0 45
+sphere
+190 420 0 45
+sphere
+210 440 0 45
+
+
+sphere
+240 250 0 45
+sphere
+280 260 0 45
+sphere
+350 290 0 45
+sphere
+370 350 0 45
+sphere
+260 440 0 45
+sphere
+340 400 0 45
+sphere
+300 270 0 45
+sphere
+290 440 0 45
+sphere
+310 270 0 45
+sphere
+295 440 0 45
+
+sphere
+180 340 0 45
+sphere
+210 280 0 45
+sphere
+210 360 0 45
+sphere
+240 370 0 45
+sphere
+270 360 0 45
+sphere
+280 300 0 45
+sphere
+320 320 0 45
+
+torus
+260 50 0 25 40
+torus
+260 100 0 25 40
+torus
+260 150 0 25 40
+torus
+260 200 0 25 40
+torus
+260 250 0 25 40
+torus
+260 300 0 25 40
+torus
+260 350 0 25 40
+
+torus
+260 50 0 25 20
+torus
+260 100 0 25 20
+torus
+260 150 0 25 20
+torus
+260 200 0 25 20
+torus
+260 250 0 25 20
+torus
+260 300 0 25 20
+torus
+260 350 0 25 20
+
+torus
+250 50 0 25 40
+torus
+250 100 0 25 40
+torus
+250 150 0 25 40
+torus
+250 200 0 25 40
+torus
+250 250 0 25 40
+torus
+250 300 0 25 40
+torus
+250 350 0 25 40
+
+torus
+240 50 0 25 40
+torus
+240 100 0 25 40
+torus
+240 150 0 25 40
+torus
+240 200 0 25 40
+torus
+240 250 0 25 40
+torus
+240 300 0 25 40
+torus
+240 350 0 25 40
+
+
+display
+save
+face19.png
